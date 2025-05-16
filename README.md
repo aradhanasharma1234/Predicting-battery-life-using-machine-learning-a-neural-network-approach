@@ -1,1 +1,1 @@
-# Predicting-battery-life-using-machine-learning-a-neural-network-approach
+# Electric Vehicle Battery Life Prediction Using ANN, Advanced Regression with Keras, NASA Battery Dataset
